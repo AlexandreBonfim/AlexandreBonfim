@@ -4,7 +4,7 @@
   <img align="left" alt="Alexandre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/1BBzNRcCNBmC3RZSH733YV?si=ace2e982f5294055">
-  <img align="left" alt="Alexandre's Spotify" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spotify/spotify.png" />
+  <img align="left" alt="Alexandre's Spotify" width="22px" src="https://raw.githubusercontent.com/github/explore/topics/spotify/spotify.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AlexandreBonfim.AlexandreBonfim)
