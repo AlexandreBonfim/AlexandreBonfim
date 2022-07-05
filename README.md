@@ -1,4 +1,4 @@
-### Hey All! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  height="10px" width="5px">
+### Hey All! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  height="25px" width="15px">
 
 <a href="https://www.linkedin.com/in/alexandre-bonfim/">
   <img align="left" alt="Alexandre's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
